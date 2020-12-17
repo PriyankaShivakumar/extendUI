@@ -1,0 +1,5 @@
+/node_modules/
+/dist/
+
+# auto generated wildcard
+BP/.env1
